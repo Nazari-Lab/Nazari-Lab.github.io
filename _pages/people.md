@@ -9,4 +9,7 @@ categories_order:
   - Faculty
   - PostDocs
   - PhD Students
+  - MS Students
+  - Undergrads
+  - Alumni
 ---
