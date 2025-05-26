@@ -409,10 +409,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-a-regional-event-on-control-systems-featuring-talks-and-posters-from-core-lab-members-the-7th-norcal-control-workshop-will-be-held-in-april-2025-at-uc-davis-this-annual-regional-event-brings-together-faculty-students-and-researchers-from-institutions-across-northern-california-to-present-and-discuss-recent-developments-in-control-systems-organizers-professor-shima-nazari-professor-matthew-j-ellis-core-lab-contributions-abhigyan-majumdar-will-give-a-talk-mahdis-rabbani-mohammad-abtahi-armin-abdolmohammadi-and-merdian-haas-will-present-posters-more-info-7th-norcal-controls-workshop-website",
-          title: 'A regional event on control systems featuring talks and posters from CORE Lab...',
+          section: "News",},{id: "news-the-7th-norcal-control-workshop-at-uc-davis",
+          title: 'The 7th NorCal Control Workshop at UC Davis',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
