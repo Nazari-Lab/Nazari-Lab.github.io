@@ -1,26 +1,35 @@
-<div class="col-sm-6 col-md-4 col-lg-3">
-  <a href="{{ person.url }}">
-    <div class="card h-100 text-center">
-      {%- include figure.liquid path=person.image class="rounded-circle mx-auto d-block mt-3" sizes="100px" -%}
+<div class="col-12 col-md-6 mb-4">
+  <a href="{{ person.url }}" class="text-decoration-none text-body">
+    <div class="card h-100 d-flex flex-row align-items-center">
+      <div class="flex-shrink-0" style="width: 120px;">
+        {% include figure.liquid
+           path=person.image
+           class="img-fluid"
+           sizes="120px" %}
+      </div>
       <div class="card-body">
         <h5 class="card-title">{{ person.title }}</h5>
-        <div class="d-flex justify-content-center">
-          {%- if person.scholar_userid -%}
-            <a href="https://scholar.google.com/citations?user={{ person.scholar_userid }}" class="mx-1">
+        <div class="d-flex">
+          {% if person.scholar_userid %}
+            <a href="https://scholar.google.com/citations?user={{ person.scholar_userid }}" class="me-2" aria-label="Google Scholar">
               <i class="ai ai-google-scholar"></i>
             </a>
-          {%- endif -%}
-          {%- if person.orcid_id -%}
-            <a href="https://orcid.org/{{ person.orcid_id }}" class="mx-1">
+          {% endif %}
+          {% if person.orcid_id %}
+            <a href="https://orcid.org/{{ person.orcid_id }}" class="me-2" aria-label="ORCID">
               <i class="ai ai-orcid"></i>
             </a>
-          {%- endif -%}
-          {%- if person.gh_username -%}
-            <a href="https://github.com/{{ person.gh_username }}" class="mx-1" aria-label="GitHub">
+          {% endif %}
+          {% if person.gh_username %}
+            <a href="https://github.com/{{ person.gh_username }}" aria-label="GitHub">
               <i class="ti ti-brand-github"></i>
             </a>
+          {% endif %}
+          {%- if person.li_username -%}
+            <a href="https://linkedin.com/in/{{ person.li_username }}" class="mx-1" aria-label="linkedin">
+              <i class="ti ti-brand-linkedin"></i>
+            </a>
           {%- endif -%}
-          {%- comment %} add more icons here {% endcomment -%}
         </div>
       </div>
     </div>

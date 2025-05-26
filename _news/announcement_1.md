@@ -2,7 +2,7 @@
 layout: post
 date: 2025-04-24
 title: The 7th NorCal Control Workshop at UC Davis
-inline: true
+inline: false
 related_posts: false
 ---
 
