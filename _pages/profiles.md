@@ -3,7 +3,7 @@ layout: profiles
 permalink: /old_profiles/
 title: Old Profiles
 description:
-nav: true
+nav: false
 nav_order: 7
 
 profiles:

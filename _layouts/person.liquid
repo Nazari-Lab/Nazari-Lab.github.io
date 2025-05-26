@@ -19,6 +19,11 @@ layout: default
             <i class="ai ai-orcid"></i>
           </a>
         {% endif %}
+        {% if page.gh_username %}
+          <a href="https://github.com/{{ page.gh_username }}" aria-label="github">
+            <i class="ai ai-github"></i>
+          </a>
+        {% endif %}
         <!-- more icons as needed -->
       </div>
     </div>

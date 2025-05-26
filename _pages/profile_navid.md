@@ -2,7 +2,8 @@
 layout: person
 permalink: /people/navid/
 title: Dr. Navid Mojahed
-image: navid.jpg
+category: PostDocs
+image: assets/img/people/navid.jpg
 scholar_userid: YOUR_NAVID_SCHOLAR_ID
 orcid_id: 0000-000X-XXXX-XXXX
 ---

@@ -2,9 +2,11 @@
 layout: person
 permalink: /people/abhigyan/
 title: Abhigyan Majumdar
-image: abhigyan.jpg
+category: PhD Students
+image: assets/img/people/abhigyan.jpg
 scholar_userid: Li37X0wAAAAJ
-orcid_id: 0000-000X-XXXX-XXXX
+orcid_id: 0009-0004-5282-8683
+gh_username: abhigyan9
 ---
 # Abhigyan Majumdar
 **He/him/his**

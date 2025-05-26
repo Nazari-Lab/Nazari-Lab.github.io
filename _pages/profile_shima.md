@@ -2,7 +2,8 @@
 layout: person
 permalink: /people/shima/
 title: Prof. Shima Nazari
-image: Shima.jpg
+category: Faculty
+image: assets/img/people/Shima.jpg
 scholar_userid: bEr1ZzMAAAAJ
 orcid_id: 0000-000X-XXXX-XXXX
 ---
