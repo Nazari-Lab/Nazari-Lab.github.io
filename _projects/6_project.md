@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Experimental Platforms
+description:
 img:
 importance: 4
-category: fun
 ---
 
 Every project has a beautiful feature showcase page.

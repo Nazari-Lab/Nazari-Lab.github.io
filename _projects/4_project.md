@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Data-Driven Modeling
+description:
 img:
 importance: 3
-category: fun
 ---
 
 Every project has a beautiful feature showcase page.
