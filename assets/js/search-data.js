@@ -401,16 +401,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-a-regional-event-on-control-systems-featuring-talks-and-posters-from-core-lab-members-the-7th-norcal-control-workshop-will-be-held-in-april-2025-at-uc-davis-this-annual-regional-event-brings-together-faculty-students-and-researchers-from-institutions-across-northern-california-to-present-and-discuss-recent-developments-in-control-systems-organizers-professor-shima-nazari-professor-matthew-j-ellis-core-lab-contributions-abhigyan-majumdar-will-give-a-talk-mahdis-rabbani-mohammad-abtahi-armin-abdolmohammadi-and-merdian-haas-will-present-posters-more-info-7th-norcal-controls-workshop-website",
+          title: 'A regional event on control systems featuring talks and posters from CORE Lab...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
