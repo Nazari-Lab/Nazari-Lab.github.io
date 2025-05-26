@@ -1,6 +1,4 @@
 ---
-layout: person
-permalink: /people/navid/
 title: Dr. Navid Mojahed
 category: PostDocs
 image: assets/img/people/navid.jpg

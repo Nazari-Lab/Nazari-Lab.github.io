@@ -1,6 +1,4 @@
 ---
-layout: person
-permalink: /people/jasmine/
 title: Jasmine Dung
 category: Undergrads
 image: assets/img/people/abhigyan.jpg

@@ -1,6 +1,4 @@
 ---
-layout: person
-permalink: /people/meridian/
 title: Meridian Haas
 category: PhD Students
 image: assets/img/people/meridian.jpg

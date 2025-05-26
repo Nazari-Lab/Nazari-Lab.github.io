@@ -1,9 +1,11 @@
 ---
-layout: person
-permalink: /people/alireza/
-title: Alireza
+title: Alireza Nemati
 category: Alumni
 image: assets/img/people/abhigyan.jpg
+description: Data-driven modeling | Vehicle Controls
+email: abmajumdar@ucdavis.edu
+phone:
+li_username: abhigyanmajumdar
 scholar_userid: Li37X0wAAAAJ
 orcid_id: 0009-0004-5282-8683
 gh_username: abhigyan9

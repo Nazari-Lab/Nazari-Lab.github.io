@@ -1,6 +1,4 @@
 ---
-layout: person
-permalink: /people/james/
 title: James Gamette
 category: MS Students
 image: assets/img/people/abhigyan.jpg

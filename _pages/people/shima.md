@@ -1,9 +1,8 @@
 ---
-layout: person
-permalink: /people/shima/
 title: Prof. Shima Nazari
 category: Faculty
 image: assets/img/people/Shima.jpg
+description: Assistant Professor of Mechanical & Aerospace Engineering
 email: snazari@ucdavis.edu
 phone: 530-752-5801
 scholar_userid: bEr1ZzMAAAAJ
