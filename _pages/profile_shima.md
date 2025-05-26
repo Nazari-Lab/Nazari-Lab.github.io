@@ -4,10 +4,11 @@ permalink: /people/shima/
 title: Prof. Shima Nazari
 category: Faculty
 image: assets/img/people/Shima.jpg
+email: snazari@ucdavis.edu
+phone: 530-752-5801
 scholar_userid: bEr1ZzMAAAAJ
-orcid_id: 0000-000X-XXXX-XXXX
+li_username: shima-nazari-2a345552
 ---
-# Shima Nazari
 **She/her/hers**
 
 - Professor Shima Nazari is the Principal Investigator (PI) of the CORE Lab at UC Davis, leading cutting-edge research in autonomous systems, control, and optimization.

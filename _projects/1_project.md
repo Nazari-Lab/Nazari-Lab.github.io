@@ -13,7 +13,7 @@ Model predictive control (MPC) is a powerful tool for planning and controlling d
 {% include figure.liquid
    path="assets/img/research/at-mpc.png"
    title="AT-MPC Concept"
-   width="300px"
+   width="500px"
    caption="Summary of the Automatic Tuning MPC (AT-MPC) approach"
    class="rounded z-depth-1"
 %}

@@ -12,11 +12,11 @@ A regional event on control systems featuring talks and posters from CORE Lab me
 
 The 7th NorCal Control Workshop will be held in April 2025 at UC Davis. This annual regional event brings together faculty, students, and researchers from institutions across Northern California to present and discuss recent developments in control systems.
 
-** Organizers: **
+**Organizers:**
 - Professor Shima Nazari
 - [Professor Matthew J. Ellis](https://che.engineering.ucdavis.edu/directory/matt-ellis)
 
-** CORE Lab Contributions: **
+**CORE Lab Contributions:**
 - Abhigyan Majumdar will give a talk
 - Mahdis Rabbani, Mohammad Abtahi, Armin Abdolmohammadi, and Merdian Haas will present posters.
 

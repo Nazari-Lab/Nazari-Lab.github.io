@@ -8,7 +8,7 @@ scholar_userid: Li37X0wAAAAJ
 orcid_id: 0009-0004-5282-8683
 gh_username: abhigyan9
 ---
-# Abhigyan Majumdar
+
 **He/him/his**
 
 - Abhigyan’s research focuses on the integration of physics-based and data-driven modelling approaches for electric vehicle thermal management and control.

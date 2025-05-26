@@ -4,11 +4,11 @@ permalink: /people/navid/
 title: Dr. Navid Mojahed
 category: PostDocs
 image: assets/img/people/navid.jpg
-scholar_userid: YOUR_NAVID_SCHOLAR_ID
-orcid_id: 0000-000X-XXXX-XXXX
+email: nmojahed@ucdavis.edu
+scholar_userid: DSwBtiUAAAAJ
+li_username: navid-mojahed-347932109
 ---
 
-# Navid Mojahed
 - Navid’s research focuses on developing data-driven optimization techniques to approximate Nash equilibrium in multi-agent systems.
 - His work involves leveraging game-theoretic frameworks to model strategic interactions and decision-making under uncertainty. By employing computationally efficient methods, he transforms complex equilibrium-finding problems into tractable optimization processes, ensuring robust and adaptive control strategies for dynamic systems.
 
