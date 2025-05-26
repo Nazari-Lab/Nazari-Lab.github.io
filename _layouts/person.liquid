@@ -19,11 +19,11 @@ layout: default
             <i class="ai ai-orcid"></i>
           </a>
         {% endif %}
-        {% if page.gh_username %}
-          <a href="https://github.com/{{ page.gh_username }}" aria-label="github">
-            <i class="ai ai-github"></i>
+        {%- if person.gh_username -%}
+          <a href="https://github.com/{{ person.gh_username }}" class="mx-1" aria-label="GitHub">
+            <i class="ti ti-brand-github"></i>
           </a>
-        {% endif %}
+        {%- endif -%}
         <!-- more icons as needed -->
       </div>
     </div>

@@ -4,23 +4,17 @@ layout: default
 <div class="container my-5">
   <h1 class="mb-4">{{ page.title }}</h1>
 
-  {%- comment -%}
-  Grab all pages using our person layout
-  {%- endcomment -%}
   {% assign persons = site.pages | where:"layout","person" | sort:"title" %}
 
-  {%- comment -%}
-  Extract unique category names
-  Requires Jekyll’s map & uniq filters
-  {%- endcomment -%}
-  {% assign categories = persons | map:"category" | uniq %}
-
-  {%- for cat in categories -%}
-    <h2 class="mt-5">{{ cat }}</h2>
-    <div class="row">
-      {%- for person in persons | where:"category",cat -%}
-        {% include people_cards.liquid person=person %}
-      {%- endfor -%}
-    </div>
-  {%- endfor -%}
+  {% for cat in page.categories_order %}
+    {% assign group = persons | where:"category", cat %}
+    {% if group.size > 0 %}
+      <h2 class="mt-5">{{ cat }}</h2>
+      <div class="row">
+        {% for person in group %}
+          {% include people_cards.liquid person=person %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
 </div>
