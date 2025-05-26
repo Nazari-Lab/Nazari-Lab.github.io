@@ -2,16 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+subtitle: University of California Davis
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +18,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+{%
+  include figure.liquid
+  loading="eager"
+  path="assets/img/lab-group-pic.jpg"
+  class="img-fluid w-100"
+  alt="Lab banner image"
+  sizes="100vw"
+%}
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The Control, Optimization, Robotics, and Electrification (CORE) Lab at UC Davis focuses on advancing intelligent decision-making, optimization, and control strategies for modern transportation systems. Our research integrates game theory, optimal control, data-driven modeling, and machine learning to address complex challenges in autonomous vehicles, electric powertrains, and sustainable mobility solutions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+We develop advanced control algorithms for autonomous and multi-agent systems, ensuring real-time adaptability in dynamic environments. Our work on game-theoretic control frameworks enables interactive-aware planning and robust decision-making under uncertainty. In addition, we explore optimization-based motion planning, leveraging Model Predictive Control (MPC) for energy-efficient and intelligent mobility.
+
+Our lab is at the forefront of electric and hybrid vehicle technology, focusing on thermal management, powertrain hybridization, and energy optimization. We investigate the interaction between component sizing and control to enhance system efficiency and reliability. Moreover, we analyze EV charging infrastructure, studying battery health and long-term performance to support the widespread adoption of electrified transportation.
+
+Beyond control and optimization, we also engage in sustainability and cost analysis, conducting life cycle assessments (LCA) for infrastructure components and evaluating energy storage solutions for various applications. By combining theoretical advancements with real-world implementation, the CORE Lab contributes to the next generation of intelligent, efficient, and sustainable transportation technologies.
