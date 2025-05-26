@@ -1,3 +1,11 @@
+---
+layout: person
+permalink: /people/shima/
+title: Prof. Shima Nazari
+image: shima.jpg
+scholar_userid: bEr1ZzMAAAAJ
+orcid_id: 0000-000X-XXXX-XXXX
+---
 # Shima Nazari
 **She/her/hers**
 

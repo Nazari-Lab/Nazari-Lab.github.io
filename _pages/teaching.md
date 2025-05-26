@@ -7,6 +7,15 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Graduate Level
+- Advanced Dynamics (MAE 222)
+- Theory & Design of Control Systems (AME 272)
+- Data-Driven Modeling and Control (MAE 298)
 
-Organize your courses by years, topics, or universities, however you like!
+# Undergraduate Level
+- Thermodynamics (ENG 105)
+- Introduction  to Mechanical Vibrations (EME 121)
+- Engineering Applications of Dynamics (EME 122)
+
+# K-12
+- Feedback Control (COSMOS - California State Summer School for Mathematics & Science)

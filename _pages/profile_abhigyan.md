@@ -1,5 +1,13 @@
+---
+layout: person
+permalink: /people/abhigyan/
+title: Abhigyan Majumdar
+image: abhigyan.jpg
+scholar_userid: Li37X0wAAAAJ
+orcid_id: 0000-000X-XXXX-XXXX
+---
 # Abhigyan Majumdar
-**She/her/hers**
+**He/him/his**
 
 - Abhigyan’s research focuses on the integration of physics-based and data-driven modelling approaches for electric vehicle thermal management and control.
 - His work involves combining Koopman Operator theory with Gaussian Process Regression to develop robust probabilistic system models. These models support the development of optimal control strategies for uncertain environments.
