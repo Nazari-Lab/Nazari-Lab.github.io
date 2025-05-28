@@ -6,25 +6,39 @@ layout: default
     <div class="col-md-4 text-center">
       {% include figure.liquid
          path=page.image
-         class="img-fluid rounded-circle mb-3"
+         class="img-fluid rounded mb-3"
          sizes="200px" %}
-      <div class="mb-3">
-        {% if page.scholar_userid %}
-          <a href="https://scholar.google.com/citations?user={{ page.scholar_userid }}" class="me-2" aria-label="Google Scholar">
+      <div class="d-flex align-items-center gap-5 fs-1">
+        {% if person.email %}
+          <a href="mailto:{{ person.email }}" aria-label="Email">
+            <i class="ti ti-mail"></i>
+          </a>
+        {% endif %}
+        {% if person.phone %}
+          <a href="tel:{{ person.phone }}" aria-label="Phone">
+            <i class="ti ti-phone"></i>
+          </a>
+        {% endif %}
+        {% if person.li_username %}
+          <a href="https://linkedin.com/in/{{ person.li_username }}" aria-label="LinkedIn">
+            <i class="ti ti-brand-linkedin"></i>
+          </a>
+        {% endif %}
+        {% if person.scholar_userid %}
+          <a href="https://scholar.google.com/citations?user={{ person.scholar_userid }}" aria-label="Google Scholar">
             <i class="ai ai-google-scholar"></i>
           </a>
         {% endif %}
-        {% if page.orcid_id %}
-          <a href="https://orcid.org/{{ page.orcid_id }}" aria-label="ORCID">
+        {% if person.orcid_id %}
+          <a href="https://orcid.org/{{ person.orcid_id }}" aria-label="ORCID">
             <i class="ai ai-orcid"></i>
           </a>
         {% endif %}
-        {%- if person.gh_username -%}
-          <a href="https://github.com/{{ person.gh_username }}" class="mx-1" aria-label="GitHub">
+        {% if person.gh_username %}
+          <a href="https://github.com/{{ person.gh_username }}" aria-label="GitHub">
             <i class="ti ti-brand-github"></i>
           </a>
-        {%- endif -%}
-        <!-- more icons as needed -->
+        {% endif %}
       </div>
     </div>
     <div class="col-md-8">
