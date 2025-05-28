@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 nav: True
 nav_order: 3
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
