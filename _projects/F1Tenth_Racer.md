@@ -27,6 +27,6 @@ The vehicle currently drives autonomously using MPC control, and LIDAR for local
     </div>
 </div>
 <div class="caption">
-    Pictures of our students ([James](https://nazari-lab.github.io/people/james/) (left) and [Eric](https://nazari-lab.github.io/people/eric/) (right)) working on the Davis Autonomous Race Car (DARC)
+    Pictures of our students ( <a href="https://nazari-lab.github.io/people/james/">James</a> (left) and <a href="https://nazari-lab.github.io/people/eric/">Eric</a> (right)) working on the Davis Autonomous Race Car (DARC)
 </div>
 
