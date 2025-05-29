@@ -4,6 +4,7 @@ title: Sustainable Energy Systems
 description:
 img: assets/img/1.jpg
 importance: 3
+category: Focus Areas
 ---
 
 Every project has a beautiful feature showcase page.

@@ -4,6 +4,7 @@ title: Data-Driven Modeling
 description:
 img:
 importance: 3
+category: Focus Areas
 ---
 
 Every project has a beautiful feature showcase page.

@@ -4,6 +4,7 @@ title: Vehicle Control
 description: Modeling and control of vehicle dynamics
 img: assets/img/research/at-mpc.png
 importance: 1
+category: Focus Areas
 related_publications: true
 ---
 

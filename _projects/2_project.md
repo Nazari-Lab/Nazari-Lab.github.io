@@ -4,6 +4,7 @@ title: Vehicle Electrification
 description:
 img: assets/img/3.jpg
 importance: 2
+category: Focus Areas
 giscus_comments: true
 ---
 

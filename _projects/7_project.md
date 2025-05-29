@@ -1,6 +1,6 @@
 ---
 layout: page
-title: F1-Tenth Autonomous Racer
+title: 1/10th Scale Electric Wheelloader
 description:
 img:
 importance: 4

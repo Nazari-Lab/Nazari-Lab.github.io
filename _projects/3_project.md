@@ -4,6 +4,7 @@ title: Multi-agent Planning
 description:
 img: assets/img/7.jpg
 redirect: https://unsplash.com
+category: Focus Areas
 importance: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: F1-Tenth Autonomous Racer
+title: Connected & Autonomous Vehicles
 description:
 img:
 importance: 4
