@@ -24,15 +24,6 @@ Today’s hybrid electric vehicles (HEVs) are designed with human drivers in min
     Figures from {% cite nazari2024powertrain %} showing: (Left) Autonomy-aware powertrain hybridization concept sketch and (Right) Variation of changes in fuel consumption with varying electric motor size for different hybridization and autonomy cases.
 </div>
 
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div> -->
-
 # Electrification of Off-Road Vehicles
 We study different challenges for electrification of off-road vehicles. Although significant development has been made to electrify on-road vehicles, for off-road vehicles, particularly heavy-duty construction machinery, progress has been slow. The wide range of usage, rough operating conditions, and harsh environments pose unique challenges to electrification. Large vehicles with high power demands require significant battery capacity and remote locations make charging difficult.  In this research we seek solutions to address various aspects of this problem.
 
