@@ -1,9 +1,13 @@
+"nazari":
+  - firstname: ["Shima"]
+    url: https://nazari-lab.github.io/people/shima/
+
 "majumdar":
   - firstname: ["Abhigyan"]
     url: https://nazari-lab.github.io/people/abhigyan/
 
-"mohammad":
-  - firstname: ["Abtahi"]
+"abtahi":
+  - firstname: ["Mohammad"]
     url: https://nazari-lab.github.io/people/mohammad/
 
 "rabbani":

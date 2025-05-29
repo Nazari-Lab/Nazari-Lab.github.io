@@ -8,17 +8,18 @@ category: Focus Areas
 related_publications: true
 ---
 
-# Learning MPC for Adaptive Cruise Control (ACC)
+## Learning MPC for Adaptive Cruise Control (ACC)
+-
 
 > {% cite abtahi2023automatic %}
 
 Model predictive control (MPC) is a powerful tool for planning and controlling dynamical systems due to its capacity for handling constraints and taking advantage of preview information. Nevertheless, MPC performance is highly dependent on the choice of cost function tuning parameters. In this work, we demonstrate an approach for online automatic tuning of an MPC controller with an example application to an ecological cruise control system that saves fuel by using a preview of road grade. We solve the global fuel consumption minimization problem offline using dynamic programming and find the corresponding MPC cost function by solving the inverse optimization problem. A neural network fitted to these offline results is used to generate the desired MPC cost function weight during online operation. The effectiveness of the proposed approach is verified in simulation for different road geometries.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/research/at-mpc.png" title="AT-MPC Results" class="img-fluid rounded z-depth-1" caption="Summary of the Automatic Tuning MPC (AT-MPC) Approach" %}
     </div>
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/research/at-mpc-results.png" title="AT-MPC Results" class="img-fluid rounded z-depth-1" caption="Fuel economy versus average velocity for DP, AT-MPC, PT-MPC, LMPC, and PI controllers for three road profiles" %}
     </div>
 </div>
@@ -26,7 +27,8 @@ Model predictive control (MPC) is a powerful tool for planning and controlling d
     Figures from {% cite abtahi2023automatic %}
 </div>
 
-# Regnerative Braking Controller with wheel slip regulation
+## Regnerative Braking Controller with wheel slip regulation
+-
 
 > {% cite majumdar2024sliding %}
 
@@ -40,10 +42,10 @@ Regenerative braking is one of the main advantages of electric propulsion system
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-6.5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/research/majumdar2024sliding results1.png" title="Lock-up recovery" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-5.5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/research/majumdar2024sliding results2.png" title="AT-MPC Results" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

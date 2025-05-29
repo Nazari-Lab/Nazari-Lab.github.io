@@ -3,7 +3,7 @@ layout: page
 title: Connected & Autonomous Vehicles
 description:
 img:
-importance: 4
+importance: 3
 category: Experimental Platforms
 ---
 

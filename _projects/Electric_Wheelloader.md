@@ -3,7 +3,7 @@ layout: page
 title: 1/10th Scale Electric Wheelloader
 description:
 img:
-importance: 4
+importance: 2
 category: Experimental Platforms
 ---
 
