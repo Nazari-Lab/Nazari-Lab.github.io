@@ -3,6 +3,7 @@ title: Eric H Contreras
 category: MS Students
 image: assets/img/people/eric.png
 description: Data-driven modeling | Vehicle Controls
+website_url: https://www.erikcontreras.com/
 email: abmajumdar@ucdavis.edu
 phone:
 li_username: abhigyanmajumdar

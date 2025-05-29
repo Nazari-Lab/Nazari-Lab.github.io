@@ -18,9 +18,14 @@
           <p class="card-text text-muted mb-2">{{ person.description }}</p>
         {%- endif -%}
         
-        <!-- icon row: fs-4 makes icons ~1.5rem, gap-3 gives ~1rem between them -->
         <div class="d-flex align-items-center gap-5 fs-1">
           
+          {% if person.website_url %}
+            <a href="{{ person.website_url }}" target="_blank" rel="noopener" aria-label="Website">
+              <i class="ti ti-world"></i>
+            </a>
+          {% endif %}
+
           {%- if person.email -%}
             <a href="mailto:{{ person.email }}" aria-label="Email">
               <i class="ti ti-mail"></i>

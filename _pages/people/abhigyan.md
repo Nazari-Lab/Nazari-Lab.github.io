@@ -3,6 +3,7 @@ title: Abhigyan Majumdar
 category: PhD Students
 image: assets/img/people/abhigyan.jpg
 description: Data-driven modeling | Vehicle Controls
+website_url: https://abhigyan9.github.io/
 email: abmajumdar@ucdavis.edu
 phone:
 li_username: abhigyanmajumdar
