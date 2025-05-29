@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 nav: True
 nav_order: 3
-display_categories: ['Focus areas', 'Experimental Platforms']
+display_categories: ['Focus Areas', 'Experimental Platforms']
 horizontal: true
 ---
 
