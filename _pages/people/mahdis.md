@@ -1,7 +1,7 @@
 ---
 title: Mahdis Rabbani
 category: PhD Students
-image: assets/img/people/abhigyan.jpg
+image: assets/img/people/mahdis.jpg
 description: Data-driven modeling | Vehicle Controls
 email: abmajumdar@ucdavis.edu
 phone:

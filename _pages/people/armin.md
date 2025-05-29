@@ -1,7 +1,7 @@
 ---
 title: Armin Abdolmohammadi
 category: PhD Students
-image: assets/img/people/abhigyan.jpg
+image: assets/img/people/armin.png
 description: Data-driven modeling | Vehicle Controls
 email: abmajumdar@ucdavis.edu
 phone:
