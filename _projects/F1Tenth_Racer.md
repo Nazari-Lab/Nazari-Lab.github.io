@@ -2,7 +2,7 @@
 layout: page
 title: F1-Tenth Autonomous Racer
 description:
-img: assets/img/research/f1tenth hands-on.png
+img: assets/img/research/f1tenth hands-on2.png
 importance: 1
 category: Experimental Platforms
 ---

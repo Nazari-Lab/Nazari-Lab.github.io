@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 ## Learning MPC for Adaptive Cruise Control (ACC)
--
+---
 
 > {% cite abtahi2023automatic %}
 
@@ -28,7 +28,7 @@ Model predictive control (MPC) is a powerful tool for planning and controlling d
 </div>
 
 ## Regnerative Braking Controller with wheel slip regulation
--
+---
 
 > {% cite majumdar2024sliding %}
 

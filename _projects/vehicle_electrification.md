@@ -9,7 +9,7 @@ giscus_comments: false
 ---
 
 ## Powertrain Hybridization for Autonomous Passenger Vehicles
--
+---
 
 > {% cite nazari2024powertrain %}
 
@@ -28,7 +28,7 @@ Today’s hybrid electric vehicles (HEVs) are designed with human drivers in min
 </div>
 
 ## Electrification of Off-Road Vehicles
--
+---
 
 We study different challenges for electrification of off-road vehicles. Although significant development has been made to electrify on-road vehicles, for off-road vehicles, particularly heavy-duty construction machinery, progress has been slow. The wide range of usage, rough operating conditions, and harsh environments pose unique challenges to electrification. Large vehicles with high power demands require significant battery capacity and remote locations make charging difficult.  In this research we seek solutions to address various aspects of this problem.
 
