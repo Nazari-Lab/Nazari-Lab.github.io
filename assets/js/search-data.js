@@ -414,46 +414,46 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "projects-vehicle-control",
-          title: 'Vehicle Control',
-          description: "Modeling and control of vehicle dynamics",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-vehicle-electrification",
-          title: 'Vehicle Electrification',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-multi-agent-planning",
-          title: 'Multi-agent Planning',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-data-driven-modeling",
-          title: 'Data-Driven Modeling',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-sustainable-energy-systems",
-          title: 'Sustainable Energy Systems',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-f1-tenth-autonomous-racer",
-          title: 'F1-Tenth Autonomous Racer',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-1-10th-scale-electric-wheelloader",
-          title: '1/10th Scale Electric Wheelloader',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
             },},{id: "projects-connected-amp-autonomous-vehicles",
           title: 'Connected &amp;amp; Autonomous Vehicles',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/Connected_Autonomous_Vehicles/";
+            },},{id: "projects-1-10th-scale-electric-wheelloader",
+          title: '1/10th Scale Electric Wheelloader',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Electric_Wheelloader/";
+            },},{id: "projects-f1-tenth-autonomous-racer",
+          title: 'F1-Tenth Autonomous Racer',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/F1Tenth_Racer/";
+            },},{id: "projects-data-driven-modeling",
+          title: 'Data-Driven Modeling',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/data-driven_modeling/";
+            },},{id: "projects-multi-agent-planning",
+          title: 'Multi-agent Planning',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/multi-agent_planning/";
+            },},{id: "projects-sustainable-energy-systems",
+          title: 'Sustainable Energy Systems',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sustainable_energy_systems/";
+            },},{id: "projects-vehicle-control",
+          title: 'Vehicle Control',
+          description: "Modeling and control of vehicle dynamics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vehicle_control/";
+            },},{id: "projects-vehicle-electrification",
+          title: 'Vehicle Electrification',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vehicle_electrification/";
             },},{
         id: 'social-email',
         title: 'email',
