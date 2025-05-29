@@ -56,7 +56,7 @@ Regenerative braking is one of the main advantages of electric propulsion system
         path="assets/img/research/majumdar2024sliding schematic.png"
         title="SMC Controller Layout"
         width="1000px"
-        caption="Schematic of the novel SMC based regenerative wheel slip controller from {% cite majumdar2024sliding%}"
+        caption="Schematic of the novel SMC based regenerative wheel slip controller from {% cite majumdar2024sliding %}"
         class="rounded z-depth-1"
     %}
 </div>
