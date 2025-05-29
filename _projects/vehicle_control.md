@@ -47,9 +47,9 @@ Model predictive control (MPC) is a powerful tool for planning and controlling d
 > {% cite majumdar2024sliding %}
 Regenerative braking is one of the main advantages of electric propulsion systems. In such systems the vehicle brake controller has to prioritize safety while maximizing the recovered energy at all time. This paper proposes a two-step hierarchical brake controller for a dual-motor all-wheel-drive electric vehicle. In the first step a novel sliding mode controller (SMC) generates the total braking torque on each axle to independently control the slip on the front and rear wheels. In the second step the torque split controller assigns motor torques to maximize the recovered energy. The proposed SMC controller accounts for the non-linearities in vehicle dynamics and tire model, and considers the  weight transfer due to vehicle deceleration. Using simulations, we show that while the traditional SMC formulation is not effective during emergency braking scenarios, the proposed formulation successfully generates control commands to bring the vehicle to a stop position in minimum distance. Furthermore, our controller is able to maintain both wheels in the stable slip region, even when starting from a locked position. The performance of the proposed controller is evaluated for an emergency braking scenario and on an aggressive segment of the US06 cycle.
 
-<div class="d-flex justify-content-center">
+<!-- <div class="d-flex justify-content-center">
     {% include figure.liquid path="assets/img/research/majumdar2024sliding schematic.png" title="SMC Controller Layout" width="1000px" class="rounded z-depth-1" caption="Schematic of the novel SMC based regenerative wheel slip controller from {% cite majumdar2024sliding %}" %}
-</div>
+</div> -->
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
