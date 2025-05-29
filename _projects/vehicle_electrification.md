@@ -14,14 +14,10 @@ Today’s hybrid electric vehicles (HEVs) are designed with human drivers in min
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/publication_preview/nazari2024powertrain_preview.png"
-        title="example image" class="img-fluid rounded z-depth-1"
-        caption="" %}
+        {% include figure.liquid path="assets/img/publication_preview/nazari2024powertrain_preview.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/research/nazari2024powertrain results1.jpg"
-        title="example image" class="img-fluid rounded z-depth-1"
-        caption="" %}
+        {% include figure.liquid path="assets/img/research/nazari2024powertrain results1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -41,11 +37,14 @@ Today’s hybrid electric vehicles (HEVs) are designed with human drivers in min
 We study different challenges for electrification of off-road vehicles. Although significant development has been made to electrify on-road vehicles, for off-road vehicles, particularly heavy-duty construction machinery, progress has been slow. The wide range of usage, rough operating conditions, and harsh environments pose unique challenges to electrification. Large vehicles with high power demands require significant battery capacity and remote locations make charging difficult.  In this research we seek solutions to address various aspects of this problem.
 
 <div class="d-flex justify-content-center">
-    {% include figure.liquid
-        path="assets/img/research/offroad FlowDiagram.png"
-        title="Powertrain Hybridization"
-        width="600px"
-        caption="Hybrid Powertrain concept for Offroad Construction Vehicles"
-        class="rounded z-depth-1"
-    %}
+    {% include figure.liquid path="assets/img/research/offroad FlowDiagram.png" title="Powertrain Hybridization" width="600px" caption="Hybrid Powertrain concept for Offroad Construction Vehicles" class="rounded z-depth-1" %}
+</div>
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/research/offroad FlowDiagram.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Hybrid Powertrain concept for Offroad Construction Vehicles
 </div>
