@@ -439,11 +439,21 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-experimental-platforms",
-          title: 'Experimental Platforms',
+            },},{id: "projects-f1-tenth-autonomous-racer",
+          title: 'F1-Tenth Autonomous Racer',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-1-10th-scale-electric-wheelloader",
+          title: '1/10th Scale Electric Wheelloader',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-connected-amp-autonomous-vehicles",
+          title: 'Connected &amp;amp; Autonomous Vehicles',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-email',
         title: 'email',
