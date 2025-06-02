@@ -5,6 +5,7 @@ description:
 img: assets/img/1.jpg
 importance: 3
 category: Focus Areas
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

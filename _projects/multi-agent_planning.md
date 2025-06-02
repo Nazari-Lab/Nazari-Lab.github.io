@@ -3,9 +3,9 @@ layout: page
 title: Multi-agent Planning
 description:
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 category: Focus Areas
 importance: 3
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

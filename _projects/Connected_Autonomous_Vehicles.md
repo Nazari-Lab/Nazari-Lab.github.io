@@ -5,6 +5,7 @@ description:
 img:
 importance: 3
 category: Experimental Platforms
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

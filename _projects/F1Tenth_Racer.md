@@ -5,6 +5,7 @@ description:
 img: assets/img/research/f1tenth hands-on2.png
 importance: 1
 category: Experimental Platforms
+related_publications: true
 ---
 
 The Davis Autonomous Race Car (DARC) is an innovative research platform at CORE Lab that integrates key autonomous vehicle frameworks across multiple disciplines. By combining fundamental concepts in perception, planning, control, vehicle dynamics, and real-time computing, the project has fostered a collaborative research effort between the Mechanical Aerospace Engineering and Computer Science Departments. Research teams have consistently expanded the car's capabilities, pushing the boundaries of autonomous vehicle technology through interdisciplinary innovation.
