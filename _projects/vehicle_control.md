@@ -42,10 +42,10 @@ Regenerative braking is one of the main advantages of electric propulsion system
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6.5 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/research/majumdar2024sliding results1.png" title="Lock-up recovery" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-5.5 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/research/majumdar2024sliding results2.png" title="AT-MPC Results" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

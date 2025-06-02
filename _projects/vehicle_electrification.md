@@ -38,4 +38,3 @@ We study different challenges for electrification of off-road vehicles. Although
 <div class="caption">
     Hybrid Powertrain concept for Offroad Construction Vehicles
 </div>
-
