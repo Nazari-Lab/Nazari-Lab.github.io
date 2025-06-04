@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vehicle Electrification
-description:
+description: Optimal Sizing and Control for electrified vehicles
 img: assets/img/publication_preview/nazari2024powertrain_preview.png
 importance: 2
 category: Focus Areas
