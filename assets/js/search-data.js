@@ -429,7 +429,7 @@ ninja.data = [{
               window.location.href = "/projects/vehicle_control/";
             },},{id: "projects-vehicle-electrification",
           title: 'Vehicle Electrification',
-          description: "",
+          description: "Optimal Sizing and Control for electrified vehicles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vehicle_electrification/";
             },},{
