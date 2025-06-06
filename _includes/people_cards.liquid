@@ -19,46 +19,46 @@
         {%- endif -%}
         
         <div class="d-flex align-items-center gap-5 fs-1">
-          
-          {% if person.website_url %}
-            <a href="{{ person.website_url }}" target="_blank" rel="noopener" aria-label="Website">
-              <i class="ti ti-world"></i>
-            </a>
-          {% endif %}
 
           {%- if person.email -%}
             <a href="mailto:{{ person.email }}" aria-label="Email">
-              <i class="ti ti-mail"></i>
+              <i class="ti ti-mail" style="font-size: 3rem;"></i>
             </a>
           {%- endif -%}
+
+          {% if person.website_url %}
+            <a href="{{ person.website_url }}" target="_blank" rel="noopener" aria-label="Website">
+              <i class="ti ti-world" style="font-size: 3rem;"></i>
+            </a>
+          {% endif %}
           
           {%- if person.phone -%}
             <a href="tel:{{ person.phone }}" aria-label="Phone">
-              <i class="ti ti-phone"></i>
+              <i class="ti ti-phone" style="font-size: 3rem;"></i>
             </a>
           {%- endif -%}
 
           {%- if person.li_username -%}
-            <a href="https://linkedin.com/in/{{ person.li_username }}" class="mx-1" aria-label="linkedin">
-              <i class="ti ti-brand-linkedin"></i>
+            <a href="https://linkedin.com/in/{{ person.li_username }}" aria-label="linkedin" class="me-3">
+              <i class="ti ti-brand-linkedin" style="font-size: 3rem;"></i>
             </a>
           {%- endif -%}
 
           {%- if person.scholar_userid -%}
             <a href="https://scholar.google.com/citations?user={{ person.scholar_userid }}" aria-label="Google Scholar">
-              <i class="ai ai-google-scholar"></i>
+              <i class="ai ai-google-scholar" style="font-size: 3rem;"></i>
             </a>
           {%- endif -%}
           
           {%- if person.orcid_id -%}
-            <a href="https://orcid.org/{{ person.orcid_id }}" aria-label="ORCID">
-              <i class="ai ai-orcid"></i>
+            <a href="https://orcid.org/{{ person.orcid_id }}" aria-label="ORCID" class="me-2">
+              <i class="ai ai-orcid" style="font-size: 3rem;"></i>
             </a>
           {%- endif -%}
           
           {%- if person.gh_username -%}
             <a href="https://github.com/{{ person.gh_username }}" aria-label="GitHub">
-              <i class="ti ti-brand-github"></i>
+              <i class="ti ti-brand-github" style="font-size: 3rem;"></i>
             </a>
           {%- endif -%}
           

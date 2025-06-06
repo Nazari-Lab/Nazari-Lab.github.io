@@ -6,6 +6,7 @@ description: Assistant Professor of Mechanical & Aerospace Engineering
 email: snazari@ucdavis.edu
 phone: 530-752-5801
 scholar_userid: bEr1ZzMAAAAJ
+website_url: https://mae.ucdavis.edu/directory/shima-nazari
 li_username: shima-nazari-2a345552
 ---
 **She/her/hers**
